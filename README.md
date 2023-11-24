@@ -5,6 +5,4 @@
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
-<div align="center">
-  <img src="https://github-readme-stats-flax-phi-79.vercel.app/api/top-langs/?username=Quodline&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-</div>
+
